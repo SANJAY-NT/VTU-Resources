@@ -13,6 +13,7 @@
 - 7th Sem
   - [Text Book](https://github.com/SANJAY-NT/VTU-7thSem-18thScheme-Textbooks)
   - [Lab AI and ML](https://github.com/SANJAY-NT/VTU-CSE-AIML-Lab-Programs)
+  - [Notes](https://github.com/SANJAY-NT/VTU-7thSem-18thScheme-Textbooks/tree/main/Notes)
 - 8th Sem
   -
 
