@@ -1,5 +1,5 @@
 # VTU-Resources 
-       This repository is a Index for all VTU 18th Scheme CSE and ISE resource repositories.
+       This repository is a Index for all VTU 18th Scheme CSE resource repositories.
       
 ## Semester 3-8
 - 3rd Sem
